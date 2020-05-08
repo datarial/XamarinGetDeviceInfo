@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinDeviceInfo.Android", "XamarinDeviceInfo\XamarinDeviceInfo.Android\XamarinDeviceInfo.Android.csproj", "{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinDeviceInfo", "XamarinDeviceInfo\XamarinDeviceInfo\XamarinDeviceInfo.csproj", "{BD67C524-CEC2-44C2-B4B3-E90673D51258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CBAA7F-169C-4716-8649-76B4AE3FFF3E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BD67C524-CEC2-44C2-B4B3-E90673D51258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD67C524-CEC2-44C2-B4B3-E90673D51258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD67C524-CEC2-44C2-B4B3-E90673D51258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD67C524-CEC2-44C2-B4B3-E90673D51258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDC8A2D-0743-41E8-A4BE-52A2D03C82EB}
+	EndGlobalSection
+EndGlobal
